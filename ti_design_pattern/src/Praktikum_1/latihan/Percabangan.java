@@ -1,4 +1,4 @@
-package Laporan1.Praktikum_1;
+package Praktikum_1.Laporan.Praktikum_1;
 
 public class Percabangan {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Laporan1;
+package Praktikum_1.Laporan;
 
 public class Variable {
     public static void main(String[] args) {
